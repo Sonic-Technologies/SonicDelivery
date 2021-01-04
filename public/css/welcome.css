@@ -1,0 +1,14 @@
+.body{
+    background: whitesmoke !important;
+}
+#paginate nav{
+    background-color: white !important;
+    box-shadow: none !important;
+}
+.pagination li.active{
+    background-color: white !important;
+    color: #444;
+}
+ul#inline li{
+    display: inline !important;
+}

@@ -1,0 +1,16 @@
+#pagination nav{
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+.pagination li.active{
+    background-color: transparent !important;
+    color: #444;
+}
+ul#inline li{
+    display: inline !important;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
